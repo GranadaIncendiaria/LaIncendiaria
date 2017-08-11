@@ -1,9 +1,9 @@
 {
-    "name": "clean-blog",
-    "title": "Clean Blog",
+    "name": "incendiaria",
+    "title": "La Incendiaria",
     "version": "1.0.0",
     "homepage": "http://startbootstrap.com",
-    "author": "Start Bootstrap",
+    "author": "GranadaIncendiaria",
     "license": "MIT",
     "devDependencies": {
         "grunt": "~0.4.5",
