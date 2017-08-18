@@ -2,11 +2,11 @@
 title: La Incendiaria
 header-img: img/home-bg.jpg
 email: lecturasmarxistas@gmail.com
-copyright_name: Your/Project/Corporate Name
+copyright_name: Proyecto "La Incendiaria"
 description: "Un blog de pelis, cómics y libros con conciencia"
 baseurl: "/LaIncendiaria"
 url: "https://granadaincendiaria.github.io"
-twitter_username: OdeclasOnarres
+# twitter_username: OdeclasOnarres
 github_username:  GranadaIncendiaria
 email_username:  lecturasmarxistas@gmail.com
 

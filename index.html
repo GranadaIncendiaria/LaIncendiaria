@@ -14,7 +14,7 @@ description: "Un blog de pelis, cómics y libros con conciencia."
         </h3>
         {% endif %}
     </a>
-    <p class="post-meta">Publicado por {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} el {{ post.date | date: "%B %-d, %Y" }}</p>
+    <p class="post-meta">Publicado por {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} el {{ post.date | date: "%-d de %B de %Y" }}</p>
 </div>
 <hr>
 {% endfor %}
